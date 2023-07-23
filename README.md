@@ -7,4 +7,5 @@ I have used sprinng version 3.0.1.
 Inorder to test the code please use H2 in memory DB, the URL and credentials are mentioned in the application.properties file.
 Tried to completed the task as per the Expectations mentioned in the assingment.
 Written the test cases in the Test folder.
-To Clone the Repo: 
+To Clone the Repo: git clone https://github.com/Jiteshs06/Acnovate.git
+
